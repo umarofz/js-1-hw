@@ -9,4 +9,4 @@ var userCity = prompt("City");
 var userGender = prompt("Your gender");
 var userPassword = prompt("Password");
 
-console.log(`Name: ${userName}\nSurname:${userSurname}\nAge:${userAge}\nEmail${userEmail}\nEducation:${userEducation}\nPhone:${userPhone}\nProfession:${userProfession}\nCity${userCity}\nGender:${userGender}\nPassword:${userPassword}`);
+console.log(` Name: ${userName} \n Surname:${userSurname} \n Age:${userAge} \n Email${userEmail} \n Education:${userEducation} \n Phone:${userPhone} \n Profession:${userProfession} \n City${userCity} \n Gender:${userGender} \n Password:${userPassword}`);
